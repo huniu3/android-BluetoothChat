@@ -14,13 +14,13 @@
 * limitations under the License.
 */
 
-package com.example.bluetoothchat.common.activities;
+package com.example.btchat.common.activities;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 
-import com.example.bluetoothchat.common.logger.Log;
-import com.example.bluetoothchat.common.logger.LogWrapper;
+import com.example.btchat.common.logger.Log;
+import com.example.btchat.common.logger.LogWrapper;
 
 /**
  * Base launcher activity, to handle most of the common plumbing for samples.

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.bluetoothchat.bluetoothchat;
+package com.example.btchat.bluetoothchat;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -32,8 +32,8 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.example.android.bluetoothchat.R;
-import com.example.bluetoothchat.common.logger.Log;
+import com.example.btchat.R;
+import com.example.btchat.common.logger.Log;
 
 import java.util.Set;
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.bluetoothchat.bluetoothchat;
+package com.example.btchat.bluetoothchat;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -42,8 +42,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.android.bluetoothchat.R;
-import com.example.bluetoothchat.common.logger.Log;
+import com.example.btchat.R;
+import com.example.btchat.common.logger.Log;
 
 /**
  * This fragment controls Bluetooth to communicate with other devices.

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.bluetoothchat.bluetoothchat;
+package com.example.btchat.bluetoothchat;
 
 /**
  * Defines several constants used between {@link BluetoothChatService} and the UI.

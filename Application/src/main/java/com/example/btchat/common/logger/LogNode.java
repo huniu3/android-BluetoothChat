@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.bluetoothchat.common.logger;
+package com.example.btchat.common.logger;
 
 /**
  * Basic interface for a logging system that can output to one or more targets.
